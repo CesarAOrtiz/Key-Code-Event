@@ -9,13 +9,6 @@ body {
     align-items: center;
 }
 
-section {
-    display: flex;
-    flex-direction: column;
-    width: 90%;
-    height: 90%;
-}
-
 .container {
     width: 90%;
     max-width: 500px;
