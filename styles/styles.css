@@ -11,7 +11,7 @@ body {
 
 .container {
     width: 90%;
-    mix-width: 200px;
+    min-width: 200px;
     max-width: 500px;
     height: 150px;
     margin: 20px auto;
